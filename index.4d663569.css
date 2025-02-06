@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap";
 html, body {
   height: 100%;
+  text-transform: capitalize;
   width: 100%;
   margin: 0;
   padding: 0;
