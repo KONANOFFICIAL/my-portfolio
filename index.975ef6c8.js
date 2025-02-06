@@ -27114,8 +27114,8 @@ var _stylesCss = require("./styles.css");
     title: "Web Developer and Software Developer",
     email: "poulomiroy1812@gmail.com",
     gitHub: "KONANOFFICIAL",
-    instagram: "microsoft",
-    linkedIn: "satyanadella",
+    instagram: "_the_masked_osutsuki_",
+    linkedIn: "Poulomi Roy",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
