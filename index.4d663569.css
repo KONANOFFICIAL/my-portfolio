@@ -105,7 +105,7 @@ a:hover {
 
 .container .box {
   text-align: center;
-  border: 1px solid #210202;
+  border: 1px solid #f1e6e6;
   border-radius: 10px;
   flex-direction: column;
   justify-content: flex-start;
