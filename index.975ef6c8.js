@@ -27113,7 +27113,7 @@ var _stylesCss = require("./styles.css");
     name: "Poulomi Roy",
     title: "Web Developer and Software Developer",
     email: "poulomiroy1812@gmail.com",
-    gitHub: "microsoft",
+    gitHub: "KONANOFFICIAL",
     instagram: "microsoft",
     linkedIn: "satyanadella",
     medium: "",
@@ -27238,7 +27238,7 @@ const About = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
-                    backgroundColor: "white",
+                    backgroundColor: "black",
                     width: "50%",
                     padding: "4rem",
                     margin: "3rem auto",
