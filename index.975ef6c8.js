@@ -27238,7 +27238,7 @@ const About = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
-                    backgroundColor: "black",
+                    backgroundColor: "white",
                     width: "50%",
                     padding: "4rem",
                     margin: "3rem auto",
